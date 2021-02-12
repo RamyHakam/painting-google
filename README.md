@@ -1,5 +1,5 @@
 # paintingcode
-This is the Master Repo for undergoundTeam-ramy painting problem
+This is the Complete code of my solution of Google hascode 2016 painting problem 
 
 You can read the pdf file to know what is the problem and it is solved in the code 
 
